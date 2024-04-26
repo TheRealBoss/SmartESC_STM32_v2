@@ -64,7 +64,7 @@ void Error_Handler(void);
 /* USER CODE BEGIN EFP */
 
 /* USER CODE END EFP */
-
+/* ES4 */
 /* Private defines -----------------------------------------------------------*/
 #define PWR_BTN_Pin GPIO_PIN_12
 #define PWR_BTN_GPIO_Port GPIOA
